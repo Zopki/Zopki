@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Zopki
+- 🌱 I’m currently learning
+- react JS
+- bootstrap 5
